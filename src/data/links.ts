@@ -1,0 +1,16 @@
+﻿export const links = {
+  linkedin: 'https://www.linkedin.com/in/esneyder-ibarra-rosero',
+  github: 'https://github.com/printEsneyder',
+  email: 'mailto:esneydribarra1970@gmail.com',
+  emailSubject: 'mailto:esneydribarra1970@gmail.com?subject=Contacto%20-%20Portafolio',
+  emailDisplay: 'esneydribarra1970@gmail.com',
+  phone: '+57 323 215 7962',
+  phoneHref: 'tel:+573232157962',
+  whatsapp: 'https://wa.me/573232157962',
+  location: 'Pasto, Nariño, Colombia',
+  linkedinHandle: 'esneyder-ibarra-rosero',
+  githubHandle: 'printEsneyder',
+  cvPath: '/cv/Esneyder-Ibarra-CV.pdf',
+  hsoundDemo: 'https://hsound-8aad2.web.app',
+  hsoundApkFolder: 'https://drive.google.com/drive/folders/11coN6w5jWHiFhzWn-cMqA5BRtXO1eZn6',
+};
