@@ -3,6 +3,7 @@
   github: 'https://github.com/printEsneyder',
   email: 'mailto:esneydribarra1970@gmail.com',
   emailSubject: 'mailto:esneydribarra1970@gmail.com?subject=Contacto%20-%20Portafolio',
+  gmailCompose: 'https://mail.google.com/mail/?view=cm&fs=1&to=esneydribarra1970@gmail.com&su=Contacto%20-%20Portafolio',
   emailDisplay: 'esneydribarra1970@gmail.com',
   phone: '+57 323 215 7962',
   phoneHref: 'tel:+573232157962',

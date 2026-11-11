@@ -15,7 +15,7 @@ export function Contact() {
         <h2 className="text-2xl md:text-4xl font-semibold" style={{ color: 'var(--color-text)' }}>{t('contact.title')}</h2>
 
         <div className="flex flex-wrap gap-3">
-          <a href={links.emailSubject} className={chipClass} style={{ borderColor: 'var(--color-border)', color: 'var(--color-text)' }}>
+          <a href={links.gmailCompose} target="_blank" rel="noopener noreferrer" className={chipClass} style={{ borderColor: 'var(--color-border)', color: 'var(--color-text)' }}>
             <Mail size={18} style={{ color: 'var(--color-accent)' }} />
             {links.emailDisplay}
           </a>
@@ -39,7 +39,9 @@ export function Contact() {
 
         <div>
           <a
-            href={links.emailSubject}
+            href={links.gmailCompose}
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full text-white hover:opacity-90 transition-opacity"
             style={{ background: 'var(--color-accent)' }}
           >
